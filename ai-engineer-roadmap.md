@@ -72,14 +72,14 @@ The market specifically values: **strong software engineering fundamentals + AI-
 ### Azure-Focused Engineer: Azure + AWS Track
 
 **Primary: Azure AI Engineer Associate (AI-102)**
-- Cost: $165
+- Cost Estimate: $165
 - Prep: 6–8 weeks, Microsoft Learn free modules
 - Covers: Azure OpenAI Service, Azure AI Search, RAG pipelines on Azure, AI agents, document intelligence, responsible AI, Azure AI Foundry
 - Why: Validates primary platform expertise and positions for Azure-heavy enterprise consulting clients
 - Target: April–June 2026
 
 **Secondary: AWS Certified Machine Learning Engineer — Associate (MLA-C01)**
-- Cost: $150
+- Cost Estimate: $150
 - Prep: 4–6 weeks (any AWS Bedrock experience counts significantly)
 - Covers: SageMaker, Bedrock, data preparation, model training, ML workflows, CI/CD for ML, monitoring
 - Why: Dual cloud certs (Azure + AWS) is a massive differentiator for consulting
@@ -340,7 +340,7 @@ Engineers with 10+ years of production software engineering who also understand 
 ### Advanced Credentials (Pick Based on Direction)
 
 **For Consulting Positioning:**
-- Prosci Change Management Certification ($4,500, 3-day intensive) — signals understanding of the 70% of AI transformation that isn't technology
+- Prosci Change Management Certification (3-day intensive) — signals understanding of the 70% of AI transformation that isn't technology
 - Cloud architecture certs round out the picture (e.g., AZ-305 for Azure-focused engineers)
 
 **For Senior IC / Staff Engineer Roles:**
