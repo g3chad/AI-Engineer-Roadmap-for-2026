@@ -1,6 +1,6 @@
 # AI Engineer Development Roadmap (2026)
 
-A practical, opinionated roadmap for experienced software engineers positioning themselves as AI Engineers — whether targeting full-time roles ($150K–$300K+) or independent consulting ($150–250/hr).
+A practical, opinionated roadmap for experienced software engineers positioning themselves as AI Engineers — whether targeting full-time roles or independent consulting.
 
 ## What This Is
 
