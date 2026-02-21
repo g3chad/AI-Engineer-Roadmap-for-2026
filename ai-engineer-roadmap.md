@@ -87,7 +87,7 @@ The market specifically values: **strong software engineering fundamentals + AI-
 - Prep resource: Stephane Maarek + Frank Kane Udemy course (~$15–20 with coupon)
 
 **Stretch Goal: AWS Certified Generative AI Developer — Professional (AIP-C01)**
-- Currently in beta (through March 31, 2026)
+- Currently in beta 
 - 85 questions, 205 minutes — described as one of the hardest AWS exams
 - Covers: Bedrock, RAG architectures, vector databases, agentic AI, production deployment, cost/security/scalability tradeoffs
 - First 5,000 passers get Early Adopter badge
@@ -358,7 +358,7 @@ Engineers with 10+ years of production software engineering who also understand 
 
 ### Azure-Focused Engineer — Azure + AWS
 
-| When | What | Cost | Time |
+| When | What | Estimated Cost | Time |
 |------|------|------|------|
 | Now–April | DeepLearning.AI courses (RAG → Agentic RAG → A2A) + LangChain Academy | $49/mo Coursera | 2–3 hrs/week |
 | April–June | Azure AI-102 prep & exam | $165 | 5–7 hrs/week |
@@ -370,7 +370,7 @@ Engineers with 10+ years of production software engineering who also understand 
 
 ### AWS-Focused Engineer — AWS
 
-| When | What | Cost | Time |
+| When | What | Estimated Cost | Time |
 |------|------|------|------|
 | Now–April | DeepLearning.AI courses (RAG → Agentic RAG → A2A) + LangChain Academy | $49/mo Coursera | 2–3 hrs/week |
 | Before March 31 | AWS GenAI Developer Professional BETA (stretch — Early Adopter badge) | $300 | Intense 4–6 weeks |
